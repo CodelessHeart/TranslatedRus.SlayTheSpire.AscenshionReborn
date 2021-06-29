@@ -1,4 +1,5 @@
 # TranslatedRus.SlayTheSpire.AscenshionReborn
+ЧИТАЙТЕ ИНФУ, В МОЁМ РЕПОЗИТОРИИ!
 
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1635237252
 
